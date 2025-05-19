@@ -6,17 +6,6 @@ Format: `<type>(<scope>): <subject>`
 
 `<scope>` is optional
 
-## Example
-
-```
-feat: add hat wobble
-^--^  ^------------^
-|     |
-|     +-> Summary in present tense.
-|
-+-------> Type: chore, docs, feat, fix, refactor, style, or test.
-```
-
 More Examples:
 
 - `feat`: (new feature for the user, not a new feature for build script)
